@@ -14,7 +14,7 @@ Authors
 
 -   David Gay <oddshocks at gmail dot com>
 
--   Duy Nguyen <dqn8613 at rit dot edu>
+-   Duy Nguyen <sleepynguyener at gmail dot com>
 
 -   Marc Brigham <mpb8676 at rit dot edu>
 
